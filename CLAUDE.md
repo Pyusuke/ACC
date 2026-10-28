@@ -41,7 +41,7 @@ ACC/
 │  ├─ 03_business_model.md
 │  ├─ 04_storytelling.md
 │  ├─ 05_internal_execution.md
-│  ├─ 06_pitch_brushup.md
+│  ├─ 06_wall_hitting.md
 │  └─ 07_final_demo.md
 ├─ ideas/              ← 事業案ごとの検討記録（可変情報）
 │  ├─ README.md        ← 事業案一覧・参加者対応表
