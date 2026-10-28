@@ -52,6 +52,7 @@ ACC/
 │     └─ hypothesis.md ← 現時点の仮説一覧（随時更新）
 └─ mentoring/          ← 壁打ち・メンタリングログ
    ├─ README.md
+   ├─ wall_hitting_guide.md  ← 壁打ちの考え方・心構え（石川明『すごい壁打ち』）
    └─ logs/
       └─ YYYY-MM-DD.md
 ```
